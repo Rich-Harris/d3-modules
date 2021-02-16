@@ -1,6 +1,6 @@
 # d3-modules
 
-Accompanying repo for [TODO](https://github.com/d3/d3/issues/TODO).
+Accompanying repo for [d3/d3#3469](https://github.com/d3/d3/issues/3469).
 
 As of Node 12 (which is to say all maintained Node versions bar 10, which reaches EOL in April), it's possible for a Node project to use native JavaScript modules by adding the following to `package.json`:
 
